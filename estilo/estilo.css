@@ -114,23 +114,22 @@ body{
     text-transform: uppercase;
     width: 100%;
   }
-    
-  .nav-bar {
+    .nav-bar {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px;
-    background-color: rgba(51, 0, 255, 0.8);
+    padding: 15px;
+    background-color: rgba(51, 0, 255, 0.8);    
     color: #fff;
   }
   
   .logo {
-    flex: 0 0 100px; /* Set the logo width to 100px */
+    flex: 0 0 100px;
   }
   
   .logo img {
-    width: auto;
-    height: 80px;
+    width: 180px;
+    height: auto;
   }
   
   .menu {
@@ -158,8 +157,6 @@ body{
 
   .movie-card {
     background-image: url(/img/backgroud_nav.jpg);
-    background-color: #f7f7f7;
-    padding: 30px;
   }
   h2{
     text-align: center;

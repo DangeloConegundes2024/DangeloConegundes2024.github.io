@@ -158,6 +158,9 @@ body{
   .movie-card {
     background-image: url(/img/backgroud_nav.jpg);
   }
+  .serie-background{
+    background-image: url(/img/car1.jpg);
+  }
   h2{
     text-align: center;
     color: #fffeff;
